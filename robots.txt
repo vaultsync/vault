@@ -23,4 +23,29 @@ S A T O R O T A S A T O R O T A S A T O R
 -->
 
 User-agent: *
+
 Disallow: /
+
+<!--
+R O T A S A T O R O T A S A T O R O T A S
+O P E R A R E P O P E R A R E P O P E R A
+T E N E T E N E T E N E T E N E T E N E T
+A R E P O P E R A R E P O P E R A R E P O
+S A T O R O T A S A T O R O T A S A T O R
+A R E P O P E R A R E P O P E R A R E P O
+T E N E T E N E T E N E T E N E T E N E T
+O P E R A R E P O P E R A R E P O P E R A
+R O T A S A T O R O T A S A T O R O T A S
+O P E R A R E P O P E R A R E P O P E R A
+T E N E T E N E T E N E T E N E T E N E T
+A R E P O P E R A R E P O P E R A R E P O
+S A T O R O T A S A T O R O T A S A T O R
+A R E P O P E R A R E P O P E R A R E P O
+T E N E T E N E T E N E T E N E T E N E T
+O P E R A R E P O P E R A R E P O P E R A
+R O T A S A T O R O T A S A T O R O T A S
+O P E R A R E P O P E R A R E P O P E R A
+T E N E T E N E T E N E T E N E T E N E T
+A R E P O P E R A R E P O P E R A R E P O
+S A T O R O T A S A T O R O T A S A T O R
+-->
